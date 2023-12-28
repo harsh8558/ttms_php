@@ -29,4 +29,4 @@ List the technologies and frameworks used in building the web-based project.
 •	MySQL
 •	XAMP server (for Local host)
 
-Project Link:- https://forms.office.com/r/E6KHnW0FCk
+Project Link:- https://profile.devdynasty.tech
