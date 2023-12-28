@@ -30,3 +30,5 @@ List the technologies and frameworks used in building the web-based project.
 •	XAMP server (for Local host)
 
 Project Link:- https://profile.devdynasty.tech
+
+Screenshot Link:-   https://drive.google.com/file/d/1_Upu4l7sLowTlqGtSD9dwKwjvW7SgP3C/view?usp=drivesdk
